@@ -11,7 +11,6 @@ main()
 	printf("%i+", i);
     }
     
-    sum = sum + i;
-    printf("%i=%i", i, sum);
+    printf("%i", i, sum);
 
 }
